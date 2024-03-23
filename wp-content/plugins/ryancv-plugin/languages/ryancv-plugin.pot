@@ -1,0 +1,658 @@
+# Copyright (C) 2021 ryancv-plugin
+# This file is distributed under the same license as the ryancv-plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ryancv-plugin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/elementor/functions.php:70
+msgid "RyanCV Theme"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:29, src/elementor/widgets/cf7-form.php:19
+msgid "Contact Form 7"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:52, src/acf-ext/acf-ionicons/acf-ionicons-v5.php:1528, src/acf-ext/acf-ui-google-font/acf-ui-google-font-v5.php:83
+msgid "Error! Please enter a higher value"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:79
+msgid "Allow Null?"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:83, src/acf-ext/acf-cf7/acf-cf7-v5.php:94, src/elementor/widgets/resume.php:79, src/elementor/widgets/testimonials.php:146, src/elementor/widgets/testimonials.php:170, src/elementor/widgets/testimonials.php:182
+msgid "Yes"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:84, src/acf-ext/acf-cf7/acf-cf7-v5.php:95, src/elementor/widgets/blog.php:163, src/elementor/widgets/resume.php:80, src/elementor/widgets/testimonials.php:147, src/elementor/widgets/testimonials.php:171, src/elementor/widgets/testimonials.php:183
+msgid "No"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:90
+msgid "Select Multiple?"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:110
+msgid "Disable Forms?"
+msgstr ""
+
+#: src/acf-ext/acf-cf7/acf-cf7-v5.php:111
+msgid "User will not be able to select these forms"
+msgstr ""
+
+#: src/acf-ext/acf-ionicons/acf-ionicons-v5.php:1507
+msgid "Ionicons"
+msgstr ""
+
+#: src/acf-ext/acf-ui-google-font/acf-ui-google-font-v5.php:62
+msgid "Google Font"
+msgstr ""
+
+#: src/acf-ext/acf-ui-google-font/acf-ui-google-font-v5.php:126
+msgid "- Default -"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:18
+msgid "About Me"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:39, src/elementor/widgets/about-me.php:47, src/elementor/widgets/about-me.php:50, src/elementor/widgets/about-me.php:148, src/elementor/widgets/blog.php:39, src/elementor/widgets/blog.php:47, src/elementor/widgets/blog.php:50, src/elementor/widgets/blog.php:124, src/elementor/widgets/blog.php:213, src/elementor/widgets/cf7-form.php:40, src/elementor/widgets/cf7-form.php:48, src/elementor/widgets/cf7-form.php:51, src/elementor/widgets/cf7-form.php:95, src/elementor/widgets/clients.php:39, src/elementor/widgets/clients.php:47, src/elementor/widgets/clients.php:50, src/elementor/widgets/clients.php:123, src/elementor/widgets/custom-text.php:39, src/elementor/widgets/custom-text.php:47, src/elementor/widgets/custom-text.php:94, src/elementor/widgets/fun-facts.php:40, src/elementor/widgets/fun-facts.php:48, src/elementor/widgets/fun-facts.php:114, src/elementor/widgets/portfolio.php:39, src/elementor/widgets/portfolio.php:47, src/elementor/widgets/portfolio.php:50, src/elementor/widgets/portfolio.php:155, src/elementor/widgets/portfolio.php:244, src/elementor/widgets/pricing.php:39, src/elementor/widgets/pricing.php:47, src/elementor/widgets/pricing.php:90, src/elementor/widgets/pricing.php:175, src/elementor/widgets/products.php:39, src/elementor/widgets/products.php:47, src/elementor/widgets/products.php:50, src/elementor/widgets/products.php:154, src/elementor/widgets/products.php:208, src/elementor/widgets/quote.php:39, src/elementor/widgets/quote.php:47, src/elementor/widgets/quote.php:50, src/elementor/widgets/quote.php:127, src/elementor/widgets/resume.php:40, src/elementor/widgets/resume.php:48, src/elementor/widgets/resume.php:51, src/elementor/widgets/resume.php:107, src/elementor/widgets/resume.php:148, src/elementor/widgets/services.php:40, src/elementor/widgets/services.php:48, src/elementor/widgets/services.php:51, src/elementor/widgets/services.php:123, src/elementor/widgets/skills.php:40, src/elementor/widgets/skills.php:48, src/elementor/widgets/skills.php:51, src/elementor/widgets/skills.php:126, src/elementor/widgets/testimonials.php:39, src/elementor/widgets/testimonials.php:47, src/elementor/widgets/testimonials.php:50, src/elementor/widgets/testimonials.php:194
+msgid "Title"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:49, src/elementor/widgets/blog.php:49, src/elementor/widgets/cf7-form.php:50, src/elementor/widgets/clients.php:49, src/elementor/widgets/custom-text.php:49, src/elementor/widgets/custom-text.php:50, src/elementor/widgets/fun-facts.php:50, src/elementor/widgets/fun-facts.php:51, src/elementor/widgets/portfolio.php:49, src/elementor/widgets/pricing.php:49, src/elementor/widgets/pricing.php:50, src/elementor/widgets/pricing.php:92, src/elementor/widgets/pricing.php:93, src/elementor/widgets/products.php:49, src/elementor/widgets/quote.php:49, src/elementor/widgets/resume.php:50, src/elementor/widgets/resume.php:109, src/elementor/widgets/resume.php:110, src/elementor/widgets/services.php:50, src/elementor/widgets/skills.php:50, src/elementor/widgets/testimonials.php:49
+msgid "Enter title"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:57, src/elementor/widgets/blog.php:57, src/elementor/widgets/cf7-form.php:58, src/elementor/widgets/clients.php:57, src/elementor/widgets/custom-text.php:57, src/elementor/widgets/fun-facts.php:58, src/elementor/widgets/portfolio.php:57, src/elementor/widgets/pricing.php:57, src/elementor/widgets/products.php:57, src/elementor/widgets/quote.php:57, src/elementor/widgets/services.php:58, src/elementor/widgets/testimonials.php:57
+msgid "Title Tag"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:61, src/elementor/widgets/blog.php:61, src/elementor/widgets/cf7-form.php:62, src/elementor/widgets/clients.php:61, src/elementor/widgets/custom-text.php:61, src/elementor/widgets/fun-facts.php:62, src/elementor/widgets/portfolio.php:61, src/elementor/widgets/pricing.php:61, src/elementor/widgets/products.php:61, src/elementor/widgets/quote.php:61, src/elementor/widgets/services.php:62, src/elementor/widgets/testimonials.php:61
+msgid "H1"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:62, src/elementor/widgets/blog.php:62, src/elementor/widgets/cf7-form.php:63, src/elementor/widgets/clients.php:62, src/elementor/widgets/custom-text.php:62, src/elementor/widgets/fun-facts.php:63, src/elementor/widgets/portfolio.php:62, src/elementor/widgets/pricing.php:62, src/elementor/widgets/products.php:62, src/elementor/widgets/quote.php:62, src/elementor/widgets/services.php:63, src/elementor/widgets/testimonials.php:62
+msgid "H2"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:63, src/elementor/widgets/blog.php:63, src/elementor/widgets/cf7-form.php:64, src/elementor/widgets/custom-text.php:63, src/elementor/widgets/fun-facts.php:64, src/elementor/widgets/portfolio.php:63, src/elementor/widgets/products.php:63, src/elementor/widgets/quote.php:63, src/elementor/widgets/services.php:64, src/elementor/widgets/testimonials.php:63
+msgid "H3"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:64, src/elementor/widgets/blog.php:64, src/elementor/widgets/cf7-form.php:65, src/elementor/widgets/clients.php:63, src/elementor/widgets/custom-text.php:64, src/elementor/widgets/fun-facts.php:65, src/elementor/widgets/portfolio.php:64, src/elementor/widgets/pricing.php:63, src/elementor/widgets/products.php:64, src/elementor/widgets/quote.php:64, src/elementor/widgets/services.php:65, src/elementor/widgets/testimonials.php:64
+msgid "DIV"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:74, src/elementor/widgets/cf7-form.php:75, src/elementor/widgets/clients.php:73, src/elementor/widgets/custom-gmaps.php:40, src/elementor/widgets/custom-text.php:74, src/elementor/widgets/fun-facts.php:75, src/elementor/widgets/info-list.php:39, src/elementor/widgets/pricing.php:73, src/elementor/widgets/quote.php:74, src/elementor/widgets/resume.php:68, src/elementor/widgets/services.php:75, src/elementor/widgets/skills.php:68, src/elementor/widgets/testimonials.php:74
+msgid "Content"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:82, src/elementor/widgets/about-me.php:178, src/elementor/widgets/services.php:100
+msgid "Description"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:84, src/elementor/widgets/about-me.php:85, src/elementor/widgets/services.php:102, src/elementor/widgets/services.php:103
+msgid "Enter description"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:93, src/elementor/widgets/info-list.php:48, src/elementor/widgets/skills.php:92
+msgid "Label"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:95, src/elementor/widgets/about-me.php:96, src/elementor/widgets/info-list.php:50, src/elementor/widgets/info-list.php:51, src/elementor/widgets/skills.php:94, src/elementor/widgets/skills.php:95
+msgid "Enter label"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:102, src/elementor/widgets/info-list.php:57
+msgid "Value"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:104, src/elementor/widgets/about-me.php:105, src/elementor/widgets/info-list.php:59, src/elementor/widgets/info-list.php:60
+msgid "Enter value"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:112, src/elementor/widgets/about-me.php:208, src/elementor/widgets/blog.php:74, src/elementor/widgets/blog.php:243, src/elementor/widgets/clients.php:110, src/elementor/widgets/fun-facts.php:101, src/elementor/widgets/fun-facts.php:144, src/elementor/widgets/info-list.php:67, src/elementor/widgets/info-list.php:103, src/elementor/widgets/portfolio.php:105, src/elementor/widgets/portfolio.php:274, src/elementor/widgets/pricing.php:162, src/elementor/widgets/pricing.php:205, src/elementor/widgets/products.php:74, src/elementor/widgets/products.php:238, src/elementor/widgets/resume.php:135, src/elementor/widgets/resume.php:190, src/elementor/widgets/services.php:110, src/elementor/widgets/services.php:153, src/elementor/widgets/skills.php:113, src/elementor/widgets/skills.php:168, src/elementor/widgets/testimonials.php:123, src/elementor/widgets/testimonials.php:224
+msgid "Items"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:125, src/elementor/widgets/about-me.php:133, src/elementor/widgets/info-list.php:80, src/elementor/widgets/info-list.php:88
+msgid "Columns"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:156, src/elementor/widgets/about-me.php:186, src/elementor/widgets/blog.php:221, src/elementor/widgets/cf7-form.php:103, src/elementor/widgets/clients.php:131, src/elementor/widgets/custom-text.php:102, src/elementor/widgets/custom-text.php:132, src/elementor/widgets/fun-facts.php:122, src/elementor/widgets/portfolio.php:252, src/elementor/widgets/pricing.php:183, src/elementor/widgets/products.php:216, src/elementor/widgets/quote.php:135, src/elementor/widgets/resume.php:156, src/elementor/widgets/services.php:131, src/elementor/widgets/skills.php:134, src/elementor/widgets/testimonials.php:202
+msgid "Color"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:216, src/elementor/widgets/info-list.php:111, src/elementor/widgets/skills.php:176
+msgid "Label Color"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:228, src/elementor/widgets/info-list.php:123
+msgid "Label Background Color"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:241, src/elementor/widgets/info-list.php:136
+msgid "Label Typography"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:249, src/elementor/widgets/info-list.php:144
+msgid "Value Color"
+msgstr ""
+
+#: src/elementor/widgets/about-me.php:262, src/elementor/widgets/info-list.php:157
+msgid "Value Typography"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:18
+msgid "Blog"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:82, src/elementor/widgets/blog.php:95, src/elementor/widgets/portfolio.php:113, src/elementor/widgets/portfolio.php:126, src/elementor/widgets/products.php:82
+msgid "Source"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:86, src/elementor/widgets/portfolio.php:117, src/elementor/widgets/portfolio.php:441, src/elementor/widgets/products.php:86
+msgid "All"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:87, src/elementor/widgets/portfolio.php:118, src/elementor/widgets/products.php:97
+msgid "Categories"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:109, src/elementor/widgets/portfolio.php:140, src/elementor/widgets/products.php:139
+msgid "Number of Items"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:119, src/elementor/widgets/portfolio.php:150, src/elementor/widgets/products.php:149
+msgid "Sorting By"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:123, src/elementor/widgets/portfolio.php:154, src/elementor/widgets/products.php:153
+msgid "Date"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:125, src/elementor/widgets/portfolio.php:156, src/elementor/widgets/products.php:155
+msgid "Random"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:126, src/elementor/widgets/blog.php:134, src/elementor/widgets/portfolio.php:157, src/elementor/widgets/portfolio.php:165, src/elementor/widgets/products.php:156, src/elementor/widgets/products.php:164
+msgid "Order"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:138, src/elementor/widgets/portfolio.php:169, src/elementor/widgets/products.php:168
+msgid "ASC"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:139, src/elementor/widgets/portfolio.php:170, src/elementor/widgets/products.php:169
+msgid "DESC"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:149, src/elementor/widgets/blog.php:161
+msgid "Pagination"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:157
+msgid "Pagination Type"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:162, src/elementor/widgets/pricing.php:138, src/elementor/widgets/pricing.php:139
+msgid "Button"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:173, src/elementor/widgets/portfolio.php:204, src/elementor/widgets/portfolio.php:217
+msgid "Button (label)"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:175, src/elementor/widgets/blog.php:188, src/elementor/widgets/portfolio.php:206, src/elementor/widgets/portfolio.php:219, src/elementor/widgets/products.php:189
+msgid "Enter button"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:176, src/elementor/widgets/portfolio.php:207
+msgid "Load More"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:186, src/elementor/widgets/pricing.php:135, src/elementor/widgets/products.php:187
+msgid "Button (title)"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:189
+msgid "All Posts"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:199, src/elementor/widgets/portfolio.php:230, src/elementor/widgets/pricing.php:145, src/elementor/widgets/products.php:197
+msgid "Button (link)"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:251, src/elementor/widgets/resume.php:198
+msgid "Date Color"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:264, src/elementor/widgets/portfolio.php:294, src/elementor/widgets/pricing.php:225, src/elementor/widgets/products.php:258, src/elementor/widgets/resume.php:231
+msgid "Title Color"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:277, src/elementor/widgets/portfolio.php:307, src/elementor/widgets/pricing.php:237, src/elementor/widgets/products.php:271
+msgid "Title Typography"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:285, src/elementor/widgets/quote.php:165, src/elementor/widgets/resume.php:273, src/elementor/widgets/testimonials.php:232
+msgid "Text Color"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:298, src/elementor/widgets/quote.php:178, src/elementor/widgets/testimonials.php:245
+msgid "Text Typography"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:433, src/elementor/widgets/portfolio.php:474
+msgid "Prev"
+msgstr ""
+
+#: src/elementor/widgets/blog.php:434, src/elementor/widgets/portfolio.php:475
+msgid "Next"
+msgstr ""
+
+#: src/elementor/widgets/cf7-form.php:83
+msgid "Select CF7 Form"
+msgstr ""
+
+#: src/elementor/widgets/clients.php:18
+msgid "Clients"
+msgstr ""
+
+#: src/elementor/widgets/clients.php:82, src/elementor/widgets/quote.php:114, src/elementor/widgets/resume.php:88, src/elementor/widgets/testimonials.php:112
+msgid "Image"
+msgstr ""
+
+#: src/elementor/widgets/clients.php:92, src/elementor/widgets/fun-facts.php:91, src/elementor/widgets/quote.php:92, src/elementor/widgets/services.php:91, src/elementor/widgets/testimonials.php:92
+msgid "Name"
+msgstr ""
+
+#: src/elementor/widgets/clients.php:94, src/elementor/widgets/clients.php:95, src/elementor/widgets/fun-facts.php:93, src/elementor/widgets/fun-facts.php:94, src/elementor/widgets/quote.php:95, src/elementor/widgets/quote.php:96, src/elementor/widgets/services.php:93, src/elementor/widgets/services.php:94, src/elementor/widgets/testimonials.php:95, src/elementor/widgets/testimonials.php:96
+msgid "Enter name"
+msgstr ""
+
+#: src/elementor/widgets/clients.php:101
+msgid "URL"
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:19
+msgid "Custom Google Maps"
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:50
+msgid "Enter your Google Map Api Key in Dashboard -> Theme Options -> Google Map -> API Key "
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:58
+msgid "Latitude"
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:60
+msgid "Enter latitude"
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:68
+msgid "Longitude"
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:70
+msgid "Enter longitude"
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:78
+msgid "Zoom"
+msgstr ""
+
+#: src/elementor/widgets/custom-gmaps.php:96
+msgid "Height"
+msgstr ""
+
+#: src/elementor/widgets/custom-text.php:18
+msgid "Custom Text"
+msgstr ""
+
+#: src/elementor/widgets/custom-text.php:82, src/elementor/widgets/custom-text.php:124, src/elementor/widgets/resume.php:125, src/elementor/widgets/testimonials.php:83
+msgid "Text"
+msgstr ""
+
+#: src/elementor/widgets/custom-text.php:84, src/elementor/widgets/custom-text.php:85, src/elementor/widgets/quote.php:84, src/elementor/widgets/quote.php:85, src/elementor/widgets/resume.php:127, src/elementor/widgets/resume.php:128, src/elementor/widgets/testimonials.php:85, src/elementor/widgets/testimonials.php:86
+msgid "Enter text"
+msgstr ""
+
+#: src/elementor/widgets/fun-facts.php:19
+msgid "Fun Facts"
+msgstr ""
+
+#: src/elementor/widgets/fun-facts.php:84, src/elementor/widgets/pricing.php:82, src/elementor/widgets/services.php:84
+msgid "Icon"
+msgstr ""
+
+#: src/elementor/widgets/fun-facts.php:152, src/elementor/widgets/portfolio.php:282, src/elementor/widgets/pricing.php:213, src/elementor/widgets/products.php:246, src/elementor/widgets/resume.php:176, src/elementor/widgets/services.php:161, src/elementor/widgets/skills.php:154
+msgid "Icon Color"
+msgstr ""
+
+#: src/elementor/widgets/fun-facts.php:164, src/elementor/widgets/services.php:173
+msgid "Icon Background"
+msgstr ""
+
+#: src/elementor/widgets/fun-facts.php:176, src/elementor/widgets/quote.php:186, src/elementor/widgets/services.php:185, src/elementor/widgets/testimonials.php:253
+msgid "Name Color"
+msgstr ""
+
+#: src/elementor/widgets/fun-facts.php:189, src/elementor/widgets/services.php:198
+msgid "Name Typography:"
+msgstr ""
+
+#: src/elementor/widgets/info-list.php:18
+msgid "Info List"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:74
+msgid "Filters"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:83
+msgid "Filters show only with pagination \"Button\" or \"No\""
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:91
+msgid "Show Filters"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:93
+msgid "Show"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:94
+msgid "Hide"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:220
+msgid "All Works"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:315, src/elementor/widgets/products.php:279
+msgid "Category Color"
+msgstr ""
+
+#: src/elementor/widgets/portfolio.php:328, src/elementor/widgets/products.php:292
+msgid "Category Typography"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:18
+msgid "Pricing"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:99
+msgid "Price"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:109
+msgid "Price (before)"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:111, src/elementor/widgets/pricing.php:112
+msgid "$"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:118
+msgid "Price (after)"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:120, src/elementor/widgets/pricing.php:121
+msgid "hour"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:127
+msgid "List"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:129
+msgid "Enter list"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:153
+msgid "Button Icon"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:247
+msgid "Price Color"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:260
+msgid "Price Typography"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:269
+msgid "Price Secondary Color"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:282
+msgid "Price Secondary Typography"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:291
+msgid "List Color"
+msgstr ""
+
+#: src/elementor/widgets/pricing.php:304
+msgid "List Typography"
+msgstr ""
+
+#: src/elementor/widgets/products.php:18
+msgid "Products"
+msgstr ""
+
+#: src/elementor/widgets/products.php:87
+msgid "Taxonomy (Categories)"
+msgstr ""
+
+#: src/elementor/widgets/products.php:88
+msgid "Taxonomy (Tags)"
+msgstr ""
+
+#: src/elementor/widgets/products.php:89
+msgid "Custom"
+msgstr ""
+
+#: src/elementor/widgets/products.php:111
+msgid "Tags"
+msgstr ""
+
+#: src/elementor/widgets/products.php:125
+msgid "Custom Products"
+msgstr ""
+
+#: src/elementor/widgets/products.php:179
+msgid "Buttons"
+msgstr ""
+
+#: src/elementor/widgets/products.php:190
+msgid "All Products"
+msgstr ""
+
+#: src/elementor/widgets/quote.php:18, src/elementor/widgets/quote.php:82, src/elementor/widgets/quote.php:157
+msgid "Quote"
+msgstr ""
+
+#: src/elementor/widgets/quote.php:103, src/elementor/widgets/testimonials.php:102
+msgid "Role"
+msgstr ""
+
+#: src/elementor/widgets/quote.php:106, src/elementor/widgets/quote.php:107, src/elementor/widgets/testimonials.php:105, src/elementor/widgets/testimonials.php:106
+msgid "Enter role"
+msgstr ""
+
+#: src/elementor/widgets/quote.php:199, src/elementor/widgets/testimonials.php:266
+msgid "Name Typography"
+msgstr ""
+
+#: src/elementor/widgets/quote.php:207, src/elementor/widgets/testimonials.php:274
+msgid "Role Color"
+msgstr ""
+
+#: src/elementor/widgets/quote.php:220, src/elementor/widgets/testimonials.php:287
+msgid "Role Typography"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:19
+msgid "Resume"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:58, src/elementor/widgets/skills.php:58
+msgid "Title Icon"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:77
+msgid "Active"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:98
+msgid "Years"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:100, src/elementor/widgets/resume.php:101
+msgid "Enter years"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:116
+msgid "Subtitle"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:118, src/elementor/widgets/resume.php:119
+msgid "Enter subtitle"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:210
+msgid "Date Active Color"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:223
+msgid "Date Typography:"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:244
+msgid "Title Typography:"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:252
+msgid "Subtitle Color"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:265
+msgid "Subtitle Typography:"
+msgstr ""
+
+#: src/elementor/widgets/resume.php:286
+msgid "Text Typography:"
+msgstr ""
+
+#: src/elementor/widgets/services.php:19
+msgid "Services"
+msgstr ""
+
+#: src/elementor/widgets/services.php:206
+msgid "Description Color"
+msgstr ""
+
+#: src/elementor/widgets/services.php:219
+msgid "Description Typography:"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:19
+msgid "Skills"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:76
+msgid "Skills Type"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:80
+msgid "Percent"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:81
+msgid "Dotted"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:82
+msgid "Circles"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:83
+msgid "Knowledges"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:101
+msgid "Progress (in %)"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:189
+msgid "Label Typography:"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:197
+msgid "Progress Line Color"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:209
+msgid "Progress Line Active Color"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:221
+msgid "Dotted Circles Color"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:233
+msgid "Dotted Circles Active Color"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:245
+msgid "Circle Color"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:257
+msgid "Circle Active Color"
+msgstr ""
+
+#: src/elementor/widgets/skills.php:269
+msgid "List Icon Color"
+msgstr ""
+
+#: src/elementor/widgets/testimonials.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: src/elementor/widgets/testimonials.php:136
+msgid "Settings"
+msgstr ""
+
+#: src/elementor/widgets/testimonials.php:144
+msgid "Autoplay"
+msgstr ""
+
+#: src/elementor/widgets/testimonials.php:156
+msgid "Autoplay Time"
+msgstr ""
+
+#: src/elementor/widgets/testimonials.php:168
+msgid "Dots"
+msgstr ""
+
+#: src/elementor/widgets/testimonials.php:180
+msgid "Loop"
+msgstr ""

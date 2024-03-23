@@ -1,0 +1,1517 @@
+{
+    "name": "designer-2",
+    "data": [
+        {
+          "option_id": 319,
+          "option_name": "options_ryan_cursor",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 320,
+          "option_name": "_options_ryan_cursor",
+          "option_value": "field_62c952ff2f02a",
+          "autoload": "no"
+        },
+        {
+          "option_id": 321,
+          "option_name": "options_cart_disable",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 322,
+          "option_name": "_options_cart_disable",
+          "option_value": "field_63f628564fb79",
+          "autoload": "no"
+        },
+        {
+          "option_id": 323,
+          "option_name": "options_switcher_ui",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 324,
+          "option_name": "_options_switcher_ui",
+          "option_value": "field_63f628094fb78",
+          "autoload": "no"
+        },
+        {
+          "option_id": 325,
+          "option_name": "options_sticky_menu",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 326,
+          "option_name": "_options_sticky_menu",
+          "option_value": "field_5bc924b819f83",
+          "autoload": "no"
+        },
+        {
+          "option_id": 327,
+          "option_name": "options_simple_vcard",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 328,
+          "option_name": "_options_simple_vcard",
+          "option_value": "field_5cb0c69578340",
+          "autoload": "no"
+        },
+        {
+          "option_id": 329,
+          "option_name": "options_mobile_vcard",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 330,
+          "option_name": "_options_mobile_vcard",
+          "option_value": "field_5bec8b62d390d",
+          "autoload": "no"
+        },
+        {
+          "option_id": 331,
+          "option_name": "options_titles_circles",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 332,
+          "option_name": "_options_titles_circles",
+          "option_value": "field_63ffb9908ee0a",
+          "autoload": "no"
+        },
+        {
+          "option_id": 333,
+          "option_name": "options_vcard_layout",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 334,
+          "option_name": "_options_vcard_layout",
+          "option_value": "field_647f64b5c41e9",
+          "autoload": "no"
+        },
+        {
+          "option_id": 335,
+          "option_name": "options_vcard_img_layout",
+          "option_value": 8,
+          "autoload": "no"
+        },
+        {
+          "option_id": 336,
+          "option_name": "_options_vcard_img_layout",
+          "option_value": "field_62c5bfc693f1b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 337,
+          "option_name": "options_vcard_bg_type",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 338,
+          "option_name": "_options_vcard_bg_type",
+          "option_value": "field_5e91db8845899",
+          "autoload": "no"
+        },
+        {
+          "option_id": 339,
+          "option_name": "options_vcard_bg",
+          "option_value": 536,
+          "autoload": "no"
+        },
+        {
+          "option_id": 340,
+          "option_name": "_options_vcard_bg",
+          "option_value": "field_5bb0d92348dd3",
+          "autoload": "no"
+        },
+        {
+          "option_id": 341,
+          "option_name": "options_vcard_photo",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 342,
+          "option_name": "_options_vcard_photo",
+          "option_value": "field_5bb0de38020c0",
+          "autoload": "no"
+        },
+        {
+          "option_id": 343,
+          "option_name": "options_vcard_photo_radius",
+          "option_value": 30,
+          "autoload": "no"
+        },
+        {
+          "option_id": 344,
+          "option_name": "_options_vcard_photo_radius",
+          "option_value": "field_62d335511f38b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 345,
+          "option_name": "options_vcard_title",
+          "option_value": "Tyrone Ryan",
+          "autoload": "no"
+        },
+        {
+          "option_id": 346,
+          "option_name": "_options_vcard_title",
+          "option_value": "field_5bb0de5464443",
+          "autoload": "no"
+        },
+        {
+          "option_id": 347,
+          "option_name": "options_vcard_subtitle_glitch",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 348,
+          "option_name": "_options_vcard_subtitle_glitch",
+          "option_value": "field_647f6c483cc0f",
+          "autoload": "no"
+        },
+        {
+          "option_id": 349,
+          "option_name": "options_vcard_subtitle_type",
+          "option_value": 2,
+          "autoload": "no"
+        },
+        {
+          "option_id": 350,
+          "option_name": "_options_vcard_subtitle_type",
+          "option_value": "field_5bf25dce1fc31",
+          "autoload": "no"
+        },
+        {
+          "option_id": 351,
+          "option_name": "options_vcard_subtitle",
+          "option_value": "Web Designer",
+          "autoload": "no"
+        },
+        {
+          "option_id": 352,
+          "option_name": "_options_vcard_subtitle",
+          "option_value": "field_5bb0de7364444",
+          "autoload": "no"
+        },
+        {
+          "option_id": 353,
+          "option_name": "options_vcard_social",
+          "option_value": 5,
+          "autoload": "no"
+        },
+        {
+          "option_id": 354,
+          "option_name": "_options_vcard_social",
+          "option_value": "field_5bb0de8264445",
+          "autoload": "no"
+        },
+        {
+          "option_id": 355,
+          "option_name": "options_vcard_bts",
+          "option_value": 2,
+          "autoload": "no"
+        },
+        {
+          "option_id": 356,
+          "option_name": "_options_vcard_bts",
+          "option_value": "field_5bb0ebd1519a0",
+          "autoload": "no"
+        },
+        {
+          "option_id": 357,
+          "option_name": "options_vcard_bts_glitch",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 358,
+          "option_name": "_options_vcard_bts_glitch",
+          "option_value": "field_647f6ca63cc10",
+          "autoload": "no"
+        },
+        {
+          "option_id": 359,
+          "option_name": "options_vcard_bts_style",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 360,
+          "option_name": "_options_vcard_bts_style",
+          "option_value": "field_62c69117d46e0",
+          "autoload": "no"
+        },
+        {
+          "option_id": 361,
+          "option_name": "options_theme_type_size",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 362,
+          "option_name": "_options_theme_type_size",
+          "option_value": "field_64885d89ff28f",
+          "autoload": "no"
+        },
+        {
+          "option_id": 363,
+          "option_name": "options_theme_type",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 364,
+          "option_name": "_options_theme_type",
+          "option_value": "field_647f7531afa86",
+          "autoload": "no"
+        },
+        {
+          "option_id": 365,
+          "option_name": "options_theme_style",
+          "option_value": 2,
+          "autoload": "no"
+        },
+        {
+          "option_id": 366,
+          "option_name": "_options_theme_style",
+          "option_value": "field_5bf6a3372280a",
+          "autoload": "no"
+        },
+        {
+          "option_id": 367,
+          "option_name": "options_theme_ui",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 368,
+          "option_name": "_options_theme_ui",
+          "option_value": "field_5bf64250c9820",
+          "autoload": "no"
+        },
+        {
+          "option_id": 369,
+          "option_name": "options_theme_ui_light",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 370,
+          "option_name": "_options_theme_ui_light",
+          "option_value": "field_62c81607a38a5",
+          "autoload": "no"
+        },
+        {
+          "option_id": 371,
+          "option_name": "options_theme_ui_dark",
+          "option_value": "#202020",
+          "autoload": "no"
+        },
+        {
+          "option_id": 372,
+          "option_name": "_options_theme_ui_dark",
+          "option_value": "field_62c81635a38a6",
+          "autoload": "no"
+        },
+        {
+          "option_id": 373,
+          "option_name": "options_layout_type",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 374,
+          "option_name": "_options_layout_type",
+          "option_value": "field_62c5d3f21dabc",
+          "autoload": "no"
+        },
+        {
+          "option_id": 375,
+          "option_name": "options_menu_type",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 376,
+          "option_name": "_options_menu_type",
+          "option_value": "field_62c5ef95e5178",
+          "autoload": "no"
+        },
+        {
+          "option_id": 377,
+          "option_name": "options_icons_type",
+          "option_value": 5,
+          "autoload": "no"
+        },
+        {
+          "option_id": 378,
+          "option_name": "_options_icons_type",
+          "option_value": "field_62c68ce508bf1",
+          "autoload": "no"
+        },
+        {
+          "option_id": 379,
+          "option_name": "options_fa_version",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 380,
+          "option_name": "_options_fa_version",
+          "option_value": "field_61b8f0f4e054f",
+          "autoload": "no"
+        },
+        {
+          "option_id": 381,
+          "option_name": "options_theme_bg_type",
+          "option_value": 15,
+          "autoload": "no"
+        },
+        {
+          "option_id": 382,
+          "option_name": "_options_theme_bg_type",
+          "option_value": "field_5beb53bf79fa8",
+          "autoload": "no"
+        },
+        {
+          "option_id": 383,
+          "option_name": "options_theme_bg_color1",
+          "option_value": "#50a3a2",
+          "autoload": "no"
+        },
+        {
+          "option_id": 384,
+          "option_name": "_options_theme_bg_color1",
+          "option_value": "field_5beb54b479fa9",
+          "autoload": "no"
+        },
+        {
+          "option_id": 385,
+          "option_name": "options_theme_bg_color2",
+          "option_value": "#78cc6d",
+          "autoload": "no"
+        },
+        {
+          "option_id": 386,
+          "option_name": "_options_theme_bg_color2",
+          "option_value": "field_5beb554079fab",
+          "autoload": "no"
+        },
+        {
+          "option_id": 387,
+          "option_name": "options_theme_bg_color1_d",
+          "option_value": "#17171b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 388,
+          "option_name": "_options_theme_bg_color1_d",
+          "option_value": "field_62c82eb460680",
+          "autoload": "no"
+        },
+        {
+          "option_id": 389,
+          "option_name": "options_theme_bg_color2_d",
+          "option_value": "#28282f",
+          "autoload": "no"
+        },
+        {
+          "option_id": 390,
+          "option_name": "_options_theme_bg_color2_d",
+          "option_value": "field_62c830a260684",
+          "autoload": "no"
+        },
+        {
+          "option_id": 391,
+          "option_name": "options_theme_bg",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 392,
+          "option_name": "_options_theme_bg",
+          "option_value": "field_5beb5d2d9bb11",
+          "autoload": "no"
+        },
+        {
+          "option_id": 393,
+          "option_name": "options_theme_animation",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 394,
+          "option_name": "_options_theme_animation",
+          "option_value": "field_5beb571f79fae",
+          "autoload": "no"
+        },
+        {
+          "option_id": 395,
+          "option_name": "options_theme_color",
+          "option_value": "#a1c568",
+          "autoload": "no"
+        },
+        {
+          "option_id": 396,
+          "option_name": "_options_theme_color",
+          "option_value": "field_5b68d509665d9",
+          "autoload": "no"
+        },
+        {
+          "option_id": 397,
+          "option_name": "options_heading_color",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 398,
+          "option_name": "_options_heading_color",
+          "option_value": "field_5b68d5d8665da",
+          "autoload": "no"
+        },
+        {
+          "option_id": 399,
+          "option_name": "options_heading_color_dark",
+          "option_value": "#ffffff",
+          "autoload": "no"
+        },
+        {
+          "option_id": 400,
+          "option_name": "_options_heading_color_dark",
+          "option_value": "field_640f43c06f019",
+          "autoload": "no"
+        },
+        {
+          "option_id": 401,
+          "option_name": "options_heading_let_color",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 402,
+          "option_name": "_options_heading_let_color",
+          "option_value": "field_63fcaf959e2f4",
+          "autoload": "no"
+        },
+        {
+          "option_id": 403,
+          "option_name": "options_heading_let_color_dark",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 404,
+          "option_name": "_options_heading_let_color_dark",
+          "option_value": "field_640f43d36f01b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 405,
+          "option_name": "options_text_color",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 406,
+          "option_name": "_options_text_color",
+          "option_value": "field_5b68d617665db",
+          "autoload": "no"
+        },
+        {
+          "option_id": 407,
+          "option_name": "options_text_color_dark",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 408,
+          "option_name": "_options_text_color_dark",
+          "option_value": "field_640f43cf6f01a",
+          "autoload": "no"
+        },
+        {
+          "option_id": 409,
+          "option_name": "options_heading_font_family",
+          "option_value": 924,
+          "autoload": "no"
+        },
+        {
+          "option_id": 410,
+          "option_name": "_options_heading_font_family",
+          "option_value": "field_5b68cfc4906fc",
+          "autoload": "no"
+        },
+        {
+          "option_id": 411,
+          "option_name": "options_heading_font_size",
+          "option_value": 24,
+          "autoload": "no"
+        },
+        {
+          "option_id": 412,
+          "option_name": "_options_heading_font_size",
+          "option_value": "field_5b68d2bdef00b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 413,
+          "option_name": "options_heading_font_weight",
+          "option_value": 800,
+          "autoload": "no"
+        },
+        {
+          "option_id": 414,
+          "option_name": "_options_heading_font_weight",
+          "option_value": "field_62cf024555970",
+          "autoload": "no"
+        },
+        {
+          "option_id": 415,
+          "option_name": "options_heading_font_line",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 416,
+          "option_name": "_options_heading_font_line",
+          "option_value": "field_63fa49a30773f",
+          "autoload": "no"
+        },
+        {
+          "option_id": 417,
+          "option_name": "options_text_font_family",
+          "option_value": 924,
+          "autoload": "no"
+        },
+        {
+          "option_id": 418,
+          "option_name": "_options_text_font_family",
+          "option_value": "field_5b68d188906fd",
+          "autoload": "no"
+        },
+        {
+          "option_id": 419,
+          "option_name": "options_text_font_size",
+          "option_value": 16,
+          "autoload": "no"
+        },
+        {
+          "option_id": 420,
+          "option_name": "_options_text_font_size",
+          "option_value": "field_5b68d31eef00c",
+          "autoload": "no"
+        },
+        {
+          "option_id": 421,
+          "option_name": "options_text_font_weight",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 422,
+          "option_name": "_options_text_font_weight",
+          "option_value": "field_63fa436bdb8f8",
+          "autoload": "no"
+        },
+        {
+          "option_id": 423,
+          "option_name": "options_text_font_line",
+          "option_value": 1.6,
+          "autoload": "no"
+        },
+        {
+          "option_id": 424,
+          "option_name": "_options_text_font_line",
+          "option_value": "field_63fa49de07740",
+          "autoload": "no"
+        },
+        {
+          "option_id": 425,
+          "option_name": "options_title_font_size",
+          "option_value": 38,
+          "autoload": "no"
+        },
+        {
+          "option_id": 426,
+          "option_name": "_options_title_font_size",
+          "option_value": "field_62c6be9f021dd",
+          "autoload": "no"
+        },
+        {
+          "option_id": 427,
+          "option_name": "options_title_font_weight",
+          "option_value": 800,
+          "autoload": "no"
+        },
+        {
+          "option_id": 428,
+          "option_name": "_options_title_font_weight",
+          "option_value": "field_62cf02205596f",
+          "autoload": "no"
+        },
+        {
+          "option_id": 429,
+          "option_name": "options_subtitles_font_size",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 430,
+          "option_name": "_options_subtitles_font_size",
+          "option_value": "field_62c6bf13021de",
+          "autoload": "no"
+        },
+        {
+          "option_id": 431,
+          "option_name": "options_subtitles_font_weight",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 432,
+          "option_name": "_options_subtitles_font_weight",
+          "option_value": "field_63fa43d7db8f9",
+          "autoload": "no"
+        },
+        {
+          "option_id": 433,
+          "option_name": "options_social_size",
+          "option_value": 18,
+          "autoload": "no"
+        },
+        {
+          "option_id": 434,
+          "option_name": "_options_social_size",
+          "option_value": "field_62c6bf5a021df",
+          "autoload": "no"
+        },
+        {
+          "option_id": 435,
+          "option_name": "options_popup_elementor",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 436,
+          "option_name": "_options_popup_elementor",
+          "option_value": "field_62c95d4e0b545",
+          "autoload": "no"
+        },
+        {
+          "option_id": 437,
+          "option_name": "options_portfolio_qv",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 438,
+          "option_name": "_options_portfolio_qv",
+          "option_value": "field_5c9b5ace134ea",
+          "autoload": "no"
+        },
+        {
+          "option_id": 439,
+          "option_name": "options_portfolio_single",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 440,
+          "option_name": "_options_portfolio_single",
+          "option_value": "field_5bee34ca48ef0",
+          "autoload": "no"
+        },
+        {
+          "option_id": 441,
+          "option_name": "options_blog_featured_img",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 442,
+          "option_name": "_options_blog_featured_img",
+          "option_value": "field_5b81b84430cbb",
+          "autoload": "no"
+        },
+        {
+          "option_id": 443,
+          "option_name": "options_blog_categories",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 444,
+          "option_name": "_options_blog_categories",
+          "option_value": "field_5b81b6d930cb9",
+          "autoload": "no"
+        },
+        {
+          "option_id": 445,
+          "option_name": "options_blog_related",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 446,
+          "option_name": "_options_blog_related",
+          "option_value": "field_640b3ca9da52e",
+          "autoload": "no"
+        },
+        {
+          "option_id": 447,
+          "option_name": "options_blog_excerpt",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 448,
+          "option_name": "_options_blog_excerpt",
+          "option_value": "field_5b81b7ca30cba",
+          "autoload": "no"
+        },
+        {
+          "option_id": 449,
+          "option_name": "options_social_share",
+          "option_value": "a:5:{i:0;s:8:\"facebook\";i:1;s:7:\"twitter\";i:2;s:8:\"linkedin\";i:3;s:6:\"reddit\";i:4;s:9:\"pinterest\";}",
+          "autoload": "no"
+        },
+        {
+          "option_id": 450,
+          "option_name": "_options_social_share",
+          "option_value": "field_5c9b53c33fe16",
+          "autoload": "no"
+        },
+        {
+          "option_id": 451,
+          "option_name": "options_blog_subtitle",
+          "option_value": "Latest Posts",
+          "autoload": "no"
+        },
+        {
+          "option_id": 452,
+          "option_name": "_options_blog_subtitle",
+          "option_value": "field_5b81b67430cb8",
+          "autoload": "no"
+        },
+        {
+          "option_id": 453,
+          "option_name": "options_blog_post_subtitle",
+          "option_value": "Blog Post",
+          "autoload": "no"
+        },
+        {
+          "option_id": 454,
+          "option_name": "_options_blog_post_subtitle",
+          "option_value": "field_5beb2c5cda438",
+          "autoload": "no"
+        },
+        {
+          "option_id": 455,
+          "option_name": "options_sidebar_disable",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 456,
+          "option_name": "_options_sidebar_disable",
+          "option_value": "field_5b74a0eb27c4c",
+          "autoload": "no"
+        },
+        {
+          "option_id": 457,
+          "option_name": "options_disable_api",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 458,
+          "option_name": "_options_disable_api",
+          "option_value": "field_5daa2f6aa80b9",
+          "autoload": "no"
+        },
+        {
+          "option_id": 459,
+          "option_name": "options_p404_content",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 460,
+          "option_name": "_options_p404_content",
+          "option_value": "field_5d0ea7aed4e7b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 461,
+          "option_name": "options_custom_css",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 462,
+          "option_name": "_options_custom_css",
+          "option_value": "field_5b75d8a199a5b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 463,
+          "option_name": "options_custom_js",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 464,
+          "option_name": "_options_custom_js",
+          "option_value": "field_5b75d8b999a5c",
+          "autoload": "no"
+        },
+        {
+          "option_id": 465,
+          "option_name": "options_preloader_type",
+          "option_value": "box-rotation",
+          "autoload": "no"
+        },
+        {
+          "option_id": 466,
+          "option_name": "_options_preloader_type",
+          "option_value": "field_5daa19a3673ae",
+          "autoload": "no"
+        },
+        {
+          "option_id": 467,
+          "option_name": "options_preloader_bgcolor",
+          "option_value": "#303030",
+          "autoload": "no"
+        },
+        {
+          "option_id": 468,
+          "option_name": "_options_preloader_bgcolor",
+          "option_value": "field_62c954da257f7",
+          "autoload": "no"
+        },
+        {
+          "option_id": 469,
+          "option_name": "options_preloader_hide",
+          "option_value": 0,
+          "autoload": "no"
+        },
+        {
+          "option_id": 470,
+          "option_name": "_options_preloader_hide",
+          "option_value": "field_5daa11c0673ad",
+          "autoload": "no"
+        },
+        {
+          "option_id": 471,
+          "option_name": "options_footer_content",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 472,
+          "option_name": "_options_footer_content",
+          "option_value": "field_63fcbf38304ff",
+          "autoload": "no"
+        },
+        {
+          "option_id": 473,
+          "option_name": "options_footer_bgcolor",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 474,
+          "option_name": "_options_footer_bgcolor",
+          "option_value": "field_63fcbf7630500",
+          "autoload": "no"
+        },
+        {
+          "option_id": 483,
+          "option_name": "options_vcard_social_0_icon",
+          "option_value": "fab fa-dribbble",
+          "autoload": "no"
+        },
+        {
+          "option_id": 484,
+          "option_name": "_options_vcard_social_0_icon",
+          "option_value": "field_5bb0de9a64446",
+          "autoload": "no"
+        },
+        {
+          "option_id": 485,
+          "option_name": "options_vcard_social_0_url",
+          "option_value": "https://dribbble.com/",
+          "autoload": "no"
+        },
+        {
+          "option_id": 486,
+          "option_name": "_options_vcard_social_0_url",
+          "option_value": "field_5bb0dec864447",
+          "autoload": "no"
+        },
+        {
+          "option_id": 487,
+          "option_name": "options_vcard_social_1_icon",
+          "option_value": "fab fa-behance",
+          "autoload": "no"
+        },
+        {
+          "option_id": 488,
+          "option_name": "_options_vcard_social_1_icon",
+          "option_value": "field_5bb0de9a64446",
+          "autoload": "no"
+        },
+        {
+          "option_id": 489,
+          "option_name": "options_vcard_social_1_url",
+          "option_value": "https://www.behance.net/",
+          "autoload": "no"
+        },
+        {
+          "option_id": 490,
+          "option_name": "_options_vcard_social_1_url",
+          "option_value": "field_5bb0dec864447",
+          "autoload": "no"
+        },
+        {
+          "option_id": 491,
+          "option_name": "options_vcard_social_2_icon",
+          "option_value": "fab fa-youtube",
+          "autoload": "no"
+        },
+        {
+          "option_id": 492,
+          "option_name": "_options_vcard_social_2_icon",
+          "option_value": "field_5bb0de9a64446",
+          "autoload": "no"
+        },
+        {
+          "option_id": 493,
+          "option_name": "options_vcard_social_2_url",
+          "option_value": "https://youtube.com/",
+          "autoload": "no"
+        },
+        {
+          "option_id": 494,
+          "option_name": "_options_vcard_social_2_url",
+          "option_value": "field_5bb0dec864447",
+          "autoload": "no"
+        },
+        {
+          "option_id": 495,
+          "option_name": "options_vcard_social_3_icon",
+          "option_value": "fab fa-instagram",
+          "autoload": "no"
+        },
+        {
+          "option_id": 496,
+          "option_name": "_options_vcard_social_3_icon",
+          "option_value": "field_5bb0de9a64446",
+          "autoload": "no"
+        },
+        {
+          "option_id": 497,
+          "option_name": "options_vcard_social_3_url",
+          "option_value": "https://instagram.com/",
+          "autoload": "no"
+        },
+        {
+          "option_id": 498,
+          "option_name": "_options_vcard_social_3_url",
+          "option_value": "field_5bb0dec864447",
+          "autoload": "no"
+        },
+        {
+          "option_id": 499,
+          "option_name": "options_vcard_social_4_icon",
+          "option_value": "fab fa-twitter",
+          "autoload": "no"
+        },
+        {
+          "option_id": 500,
+          "option_name": "_options_vcard_social_4_icon",
+          "option_value": "field_5bb0de9a64446",
+          "autoload": "no"
+        },
+        {
+          "option_id": 501,
+          "option_name": "options_vcard_social_4_url",
+          "option_value": "https://twitter.com/",
+          "autoload": "no"
+        },
+        {
+          "option_id": 502,
+          "option_name": "_options_vcard_social_4_url",
+          "option_value": "field_5bb0dec864447",
+          "autoload": "no"
+        },
+        {
+          "option_id": 503,
+          "option_name": "options_vcard_subtitles_0_text",
+          "option_value": "Web Designer",
+          "autoload": "no"
+        },
+        {
+          "option_id": 504,
+          "option_name": "_options_vcard_subtitles_0_text",
+          "option_value": "field_5bf25e451fc34",
+          "autoload": "no"
+        },
+        {
+          "option_id": 505,
+          "option_name": "options_vcard_subtitles_1_text",
+          "option_value": "UI/UX Designer",
+          "autoload": "no"
+        },
+        {
+          "option_id": 506,
+          "option_name": "_options_vcard_subtitles_1_text",
+          "option_value": "field_5bf25e451fc34",
+          "autoload": "no"
+        },
+        {
+          "option_id": 507,
+          "option_name": "options_vcard_subtitles_2_text",
+          "option_value": "Illustrator",
+          "autoload": "no"
+        },
+        {
+          "option_id": 508,
+          "option_name": "_options_vcard_subtitles_2_text",
+          "option_value": "field_5bf25e451fc34",
+          "autoload": "no"
+        },
+        {
+          "option_id": 509,
+          "option_name": "options_vcard_subtitles_3_text",
+          "option_value": "Photographer",
+          "autoload": "no"
+        },
+        {
+          "option_id": 510,
+          "option_name": "_options_vcard_subtitles_3_text",
+          "option_value": "field_5bf25e451fc34",
+          "autoload": "no"
+        },
+        {
+          "option_id": 511,
+          "option_name": "options_vcard_subtitles",
+          "option_value": 3,
+          "autoload": "no"
+        },
+        {
+          "option_id": 512,
+          "option_name": "_options_vcard_subtitles",
+          "option_value": "field_5bf25e291fc33",
+          "autoload": "no"
+        },
+        {
+          "option_id": 513,
+          "option_name": "options_onepage",
+          "option_value": 1,
+          "autoload": "no"
+        },
+        {
+          "option_id": 514,
+          "option_name": "_options_onepage",
+          "option_value": "field_5bc9149ea45bf",
+          "autoload": "no"
+        },
+        {
+          "option_id": 515,
+          "option_name": "options_theme_bg_color",
+          "option_value": "#0a0a0a",
+          "autoload": "no"
+        },
+        {
+          "option_id": 516,
+          "option_name": "_options_theme_bg_color",
+          "option_value": "field_5beb6bbf11c8b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 517,
+          "option_name": "options_vcard_bg_images",
+          "option_value": 2,
+          "autoload": "no"
+        },
+        {
+          "option_id": 518,
+          "option_name": "_options_vcard_bg_images",
+          "option_value": "field_62c800d414db3",
+          "autoload": "no"
+        },
+        {
+          "option_id": 519,
+          "option_name": "options_vcard_bts_0_text",
+          "option_value": "Download CV",
+          "autoload": "no"
+        },
+        {
+          "option_id": 520,
+          "option_name": "_options_vcard_bts_0_text",
+          "option_value": "field_5bb10b753eacd",
+          "autoload": "no"
+        },
+        {
+          "option_id": 521,
+          "option_name": "options_vcard_bts_0_icon",
+          "option_value": 321,
+          "autoload": "no"
+        },
+        {
+          "option_id": 522,
+          "option_name": "_options_vcard_bts_0_icon",
+          "option_value": "field_5bb10b833eace",
+          "autoload": "no"
+        },
+        {
+          "option_id": 523,
+          "option_name": "options_vcard_bts_0_url",
+          "option_value": "a:3:{s:5:\"title\";s:0:\"\";s:3:\"url\";s:89:\"https://ryancv.bslthemes.com/wp-content/uploads/2022/07/Dublin-Resume-Template-Modern.pdf\";s:6:\"target\";s:6:\"_blank\";}",
+          "autoload": "no"
+        },
+        {
+          "option_id": 524,
+          "option_name": "_options_vcard_bts_0_url",
+          "option_value": "field_5bb10b923eacf",
+          "autoload": "no"
+        },
+        {
+          "option_id": 525,
+          "option_name": "options_vcard_bts_1_text",
+          "option_value": "Contact Me",
+          "autoload": "no"
+        },
+        {
+          "option_id": 526,
+          "option_name": "_options_vcard_bts_1_text",
+          "option_value": "field_5bb10b753eacd",
+          "autoload": "no"
+        },
+        {
+          "option_id": 527,
+          "option_name": "options_vcard_bts_1_icon",
+          "option_value": 572,
+          "autoload": "no"
+        },
+        {
+          "option_id": 528,
+          "option_name": "_options_vcard_bts_1_icon",
+          "option_value": "field_5bb10b833eace",
+          "autoload": "no"
+        },
+        {
+          "option_id": 529,
+          "option_name": "options_vcard_bts_1_url",
+          "option_value": "a:3:{s:5:\"title\";s:0:\"\";s:3:\"url\";s:20:\"/designer-2/#contact\";s:6:\"target\";s:0:\"\";}",
+          "autoload": "no"
+        },
+        {
+          "option_id": 530,
+          "option_name": "_options_vcard_bts_1_url",
+          "option_value": "field_5bb10b923eacf",
+          "autoload": "no"
+        },
+        {
+          "option_id": 531,
+          "option_name": "options_theme_bg_waves_bgcolor",
+          "option_value": "#0e6cc4",
+          "autoload": "no"
+        },
+        {
+          "option_id": 532,
+          "option_name": "_options_theme_bg_waves_bgcolor",
+          "option_value": "field_62c8aae67fe94",
+          "autoload": "no"
+        },
+        {
+          "option_id": 533,
+          "option_name": "options_theme_bg_waves_color1",
+          "option_value": "#6db7f2",
+          "autoload": "no"
+        },
+        {
+          "option_id": 534,
+          "option_name": "_options_theme_bg_waves_color1",
+          "option_value": "field_62c8ab2c7fe95",
+          "autoload": "no"
+        },
+        {
+          "option_id": 535,
+          "option_name": "options_theme_bg_waves_color2",
+          "option_value": "#92dffc",
+          "autoload": "no"
+        },
+        {
+          "option_id": 536,
+          "option_name": "_options_theme_bg_waves_color2",
+          "option_value": "field_62c8ab837fe96",
+          "autoload": "no"
+        },
+        {
+          "option_id": 537,
+          "option_name": "options_theme_bg_spiral_bgcolor",
+          "option_value": "#000000",
+          "autoload": "no"
+        },
+        {
+          "option_id": 538,
+          "option_name": "_options_theme_bg_spiral_bgcolor",
+          "option_value": "field_62c8a792f7ad2",
+          "autoload": "no"
+        },
+        {
+          "option_id": 539,
+          "option_name": "options_theme_bg_spiral_color",
+          "option_value": "#78cc6d",
+          "autoload": "no"
+        },
+        {
+          "option_id": 540,
+          "option_name": "_options_theme_bg_spiral_color",
+          "option_value": "field_62c8a7b4f7ad3",
+          "autoload": "no"
+        },
+        {
+          "option_id": 541,
+          "option_name": "options_theme_bg_particles_bgcolor",
+          "option_value": "#262b2e",
+          "autoload": "no"
+        },
+        {
+          "option_id": 542,
+          "option_name": "_options_theme_bg_particles_bgcolor",
+          "option_value": "field_62c893c56616e",
+          "autoload": "no"
+        },
+        {
+          "option_id": 543,
+          "option_name": "options_theme_bg_particles_color1",
+          "option_value": "#34a853",
+          "autoload": "no"
+        },
+        {
+          "option_id": 544,
+          "option_name": "_options_theme_bg_particles_color1",
+          "option_value": "field_62c893ef6616f",
+          "autoload": "no"
+        },
+        {
+          "option_id": 545,
+          "option_name": "options_theme_bg_particles_color2",
+          "option_value": "#755f93",
+          "autoload": "no"
+        },
+        {
+          "option_id": 546,
+          "option_name": "_options_theme_bg_particles_color2",
+          "option_value": "field_62c8941b66170",
+          "autoload": "no"
+        },
+        {
+          "option_id": 547,
+          "option_name": "options_theme_bg_particles_color3",
+          "option_value": "#c76c17",
+          "autoload": "no"
+        },
+        {
+          "option_id": 548,
+          "option_name": "_options_theme_bg_particles_color3",
+          "option_value": "field_62c8943b66171",
+          "autoload": "no"
+        },
+        {
+          "option_id": 549,
+          "option_name": "options_theme_bg_particles_color4",
+          "option_value": "#c23e37",
+          "autoload": "no"
+        },
+        {
+          "option_id": 550,
+          "option_name": "_options_theme_bg_particles_color4",
+          "option_value": "field_62c8944966172",
+          "autoload": "no"
+        },
+        {
+          "option_id": 551,
+          "option_name": "options_theme_bg_particles_color5",
+          "option_value": "#00acd4",
+          "autoload": "no"
+        },
+        {
+          "option_id": 552,
+          "option_name": "_options_theme_bg_particles_color5",
+          "option_value": "field_62c8945966173",
+          "autoload": "no"
+        },
+        {
+          "option_id": 553,
+          "option_name": "options_theme_bg_blured_bgcolor",
+          "option_value": "#141414",
+          "autoload": "no"
+        },
+        {
+          "option_id": 554,
+          "option_name": "_options_theme_bg_blured_bgcolor",
+          "option_value": "field_62c88ad4e3344",
+          "autoload": "no"
+        },
+        {
+          "option_id": 555,
+          "option_name": "options_theme_bg_blured_figure_color1",
+          "option_value": "#edff20",
+          "autoload": "no"
+        },
+        {
+          "option_id": 556,
+          "option_name": "_options_theme_bg_blured_figure_color1",
+          "option_value": "field_62c88b0ee3345",
+          "autoload": "no"
+        },
+        {
+          "option_id": 557,
+          "option_name": "options_theme_bg_blured_figure_color2",
+          "option_value": "#282828",
+          "autoload": "no"
+        },
+        {
+          "option_id": 558,
+          "option_name": "_options_theme_bg_blured_figure_color2",
+          "option_value": "field_62c88b31e3346",
+          "autoload": "no"
+        },
+        {
+          "option_id": 559,
+          "option_name": "options_theme_bg_blured_figure_color3",
+          "option_value": "#52d379",
+          "autoload": "no"
+        },
+        {
+          "option_id": 560,
+          "option_name": "_options_theme_bg_blured_figure_color3",
+          "option_value": "field_62c88b33e3347",
+          "autoload": "no"
+        },
+        {
+          "option_id": 561,
+          "option_name": "options_theme_bg_perspective_color1",
+          "option_value": "#003073",
+          "autoload": "no"
+        },
+        {
+          "option_id": 562,
+          "option_name": "_options_theme_bg_perspective_color1",
+          "option_value": "field_62c886626f3ae",
+          "autoload": "no"
+        },
+        {
+          "option_id": 563,
+          "option_name": "options_theme_bg_perspective_color2",
+          "option_value": "#029797",
+          "autoload": "no"
+        },
+        {
+          "option_id": 564,
+          "option_name": "_options_theme_bg_perspective_color2",
+          "option_value": "field_62c886806f3af",
+          "autoload": "no"
+        },
+        {
+          "option_id": 568,
+          "option_name": "options_theme_bg_ocean_color",
+          "option_value": "#ffffff",
+          "autoload": "no"
+        },
+        {
+          "option_id": 569,
+          "option_name": "_options_theme_bg_ocean_color",
+          "option_value": "field_63fd378effddd",
+          "autoload": "no"
+        },
+        {
+          "option_id": 570,
+          "option_name": "options_theme_bg_ocean_color2",
+          "option_value": "#b2c49b",
+          "autoload": "no"
+        },
+        {
+          "option_id": 571,
+          "option_name": "_options_theme_bg_ocean_color2",
+          "option_value": "field_63fd37acffdde",
+          "autoload": "no"
+        },
+        {
+          "option_id": 572,
+          "option_name": "options_theme_bg_ocean_color_dark",
+          "option_value": "#282828",
+          "autoload": "no"
+        },
+        {
+          "option_id": 573,
+          "option_name": "_options_theme_bg_ocean_color_dark",
+          "option_value": "field_6486fe0eb8fed",
+          "autoload": "no"
+        },
+        {
+          "option_id": 574,
+          "option_name": "options_theme_bg_ocean_color2_dark",
+          "option_value": "#000000",
+          "autoload": "no"
+        },
+        {
+          "option_id": 575,
+          "option_name": "_options_theme_bg_ocean_color2_dark",
+          "option_value": "field_6486fe10b8fee",
+          "autoload": "no"
+        },
+        {
+          "option_id": 576,
+          "option_name": "options_vcard_bg_images_0_image",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 577,
+          "option_name": "_options_vcard_bg_images_0_image",
+          "option_value": "field_62c800e814db4",
+          "autoload": "no"
+        },
+        {
+          "option_id": 578,
+          "option_name": "options_vcard_bg_images_1_image",
+          "option_value": "",
+          "autoload": "no"
+        },
+        {
+          "option_id": 579,
+          "option_name": "_options_vcard_bg_images_1_image",
+          "option_value": "field_62c800e814db4",
+          "autoload": "no"
+        },
+        {
+          "option_id": 600,
+          "option_name": "options_vcard_bg_video",
+          "option_value": 354,
+          "autoload": "no"
+        },
+        {
+          "option_id": 601,
+          "option_name": "_options_vcard_bg_video",
+          "option_value": "field_5e91db7645898",
+          "autoload": "no"
+        }
+    ]
+}
