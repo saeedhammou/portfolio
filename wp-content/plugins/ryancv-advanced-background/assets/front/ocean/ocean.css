@@ -1,0 +1,59 @@
+.canvas.canvas-ocean {
+    height: 100%;
+    width: 100%;
+}
+
+.canvas.canvas-ocean svg {
+    min-width: 100%;
+    min-height: 100%;
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.canvas.canvas-ocean svg.ocean-light {
+    display: block;
+}
+
+.canvas.canvas-ocean svg.ocean-dark {
+    display: none;
+}
+
+body.body-style-dark .canvas.canvas-ocean svg.ocean-light {
+    display: none;
+}
+
+body.body-style-dark .canvas.canvas-ocean svg.ocean-dark {
+    display: block;
+}
+
+@media (max-width: 680px) {
+    .canvas.canvas-ocean svg {
+        display: none!important;
+    }
+}
+
+.canvas.canvas-ocean path:nth-child(7) {
+    animation: ocean_moves 12s ease-in-out infinite;
+}
+
+.canvas.canvas-ocean path:nth-child(8) {
+    animation: ocean_moves 10s ease-in-out infinite;
+}
+
+.canvas.canvas-ocean path:nth-child(9) {
+    animation: ocean_moves 14s ease-in-out infinite;
+}
+
+.canvas.canvas-ocean path:nth-child(10) {
+    animation: ocean_moves 12s ease-in-out infinite;
+}
+
+.canvas.canvas-ocean path:nth-child(11) {
+    animation: ocean_moves 16s ease-in-out infinite;
+}
+
+@keyframes ocean_moves {
+    0%{transform: translateY(0px) translateX(0px)}
+    70%{transform: translateY(-8px) translateX(6px)}
+}

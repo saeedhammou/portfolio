@@ -1,0 +1,30 @@
+.acf-field-62c6b1fe534d9:after {
+  content: 'Default Background Mode';
+  color: black;
+  font-weight: bold;
+  display: inline-block;
+  margin: 1rem 0;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background: #F9F9F9;
+  border: 1px solid #E1E1E1;
+}
+.acf-field-62c6b1fe534d9 h3:after {
+  content: '( Please, activate RyanCV Theme and RyanCV Advanced Background plugin for enable extra background options! )';
+  font-size: 12px;
+  font-style: italic;
+  color: red;
+  display: inline-block;
+  vertical-align: baseline;
+  margin-left: 15px;
+}
+.acf-field-5beb53bf79fa8 .acf-radio-list li {
+  opacity: 0.33;
+  pointer-events: none;
+}
+.acf-field-5beb53bf79fa8 .acf-radio-list li:nth-child(1),
+.acf-field-5beb53bf79fa8 .acf-radio-list li:nth-child(2),
+.acf-field-5beb53bf79fa8 .acf-radio-list li:nth-child(3) {
+  opacity: 1;
+  pointer-events: all;
+}

@@ -1,0 +1,237 @@
+.cybergrid-background {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.cybergrid-background::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: url(noise-texture.svg);
+    opacity: 0.7;
+    mix-blend-mode: overlay;
+    filter: invert(1);
+    z-index: 20000;
+}
+
+.cybergrid-background .cybergrid-top {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: flex-end;
+    position: relative;
+    background-image: -webkit-linear-gradient(top, #1a1b1d, #282b26);
+    background-image: linear-gradient(180deg, #1a1b1d, #282b26);
+}
+
+.cybergrid-background .cybergrid-top::before {
+    content: "";
+    position: absolute;
+    bottom: -1vh;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.2);
+    height: 15vh;
+    -webkit-clip-path: polygon(0% 38%, 2.6% 40%, 5.4% 24%, 8.7% 59%, 13.6% 72%, 18.5% 22%, 21.7% 35%, 27.2% 8%, 34% 53%, 39.4% 81%, 49.1% 85%, 54.5% 64%, 60% 53%, 71.2% 70%, 76.6% 24%, 81.4% 0%, 87.1% 13%, 94.2% 27%, 100% 32%, 100% 100%, 0% 100%);
+    clip-path: polygon(0% 38%, 2.6% 40%, 5.4% 24%, 8.7% 59%, 13.6% 72%, 18.5% 22%, 21.7% 35%, 27.2% 8%, 34% 53%, 39.4% 81%, 49.1% 85%, 54.5% 64%, 60% 53%, 71.2% 70%, 76.6% 24%, 81.4% 0%, 87.1% 13%, 94.2% 27%, 100% 32%, 100% 100%, 0% 100%);
+    background: #202124;
+}
+
+.cybergrid-background .cybergrid-bottom {
+    flex: 0 0 13rem;
+    position: relative;
+    background: #2f2e25;
+}
+
+/*.cybergrid-background .cybergrid-bottom::after {
+    content: "";
+    position: absolute;
+    z-index: 10000;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    background: radial-gradient(ellipse at center, transparent 50%, rgba(0, 0, 0, 0.1) 70%);
+}
+
+body.body-style-dark .cybergrid-background .cybergrid-bottom::after {
+    background: radial-gradient(ellipse at center, transparent 50%, rgba(0, 0, 0, 0.4) 70%);
+}*/
+
+.cybergrid-background .cybergrid-bottom .cb-ground {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave {
+  background: #f2e900;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical {
+  position: absolute;
+  top: 1px;
+  left: 50%;
+  width: 1px;
+  height: 1000%;
+  transform-origin: top left;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-0 {
+  transform: rotate(0deg);
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-1 {
+  transform: rotate(-38deg);
+  left: 53%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-2 {
+  transform: rotate(-57deg);
+  left: 57%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-3 {
+  transform: rotate(-67deg);
+  left: 61%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-4 {
+  transform: rotate(-75deg);
+  left: 65%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-5 {
+  transform: rotate(-81deg);
+  left: 69%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-6 {
+  transform: rotate(-84deg);
+  left: 76%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-right.wave-7 {
+  transform: rotate(-87deg);
+  left: 84%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-left.wave-1 {
+  transform: rotate(38deg);
+  left: 47%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-left.wave-2 {
+  transform: rotate(57deg);
+  left: 43%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-left.wave-3 {
+  transform: rotate(67deg);
+  left: 39%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-left.wave-4 {
+  transform: rotate(75deg);
+  left: 35%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-left.wave-5 {
+  transform: rotate(81deg);
+  left: 31%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-left.wave-6 {
+  transform: rotate(84deg);
+  left: 24%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.vertical.wv-left.wave-7 {
+  transform: rotate(87deg);
+  left: 16%;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal {
+  position: absolute;
+  top: 0;
+  width: 150%;
+  height: 1px;
+  right: -25%;
+  -webkit-animation: infinite wave-left 9s cubic-bezier(1, 0.01, 1, 0.9);
+          animation: infinite wave-left 9s cubic-bezier(1, 0.01, 1, 0.9);
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-9 {
+  -webkit-animation: none;
+          animation: none;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-10 {
+  -webkit-animation-delay: -0.9s;
+          animation-delay: -0.9s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-11 {
+  -webkit-animation-delay: -1.8s;
+          animation-delay: -1.8s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-12 {
+  -webkit-animation-delay: -2.7s;
+          animation-delay: -2.7s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-13 {
+  -webkit-animation-delay: -3.6s;
+          animation-delay: -3.6s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-14 {
+  -webkit-animation-delay: -4.5s;
+          animation-delay: -4.5s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-15 {
+  -webkit-animation-delay: -5.4s;
+          animation-delay: -5.4s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-16 {
+  -webkit-animation-delay: -6.3s;
+          animation-delay: -6.3s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-17 {
+  -webkit-animation-delay: -7.2s;
+          animation-delay: -7.2s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-18 {
+  -webkit-animation-delay: -8.1s;
+          animation-delay: -8.1s;
+}
+
+.cybergrid-background .cybergrid-bottom .cb-wave.horizontal.wave-19 {
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+
+@-webkit-keyframes wave-left {
+  100% {
+    transform: translate(-23.65807vh, 65vh);
+  }
+}
+
+@keyframes wave-left {
+  100% {
+    transform: translate(-23.65807vh, 65vh);
+  }
+}
